@@ -1,7 +1,7 @@
 ApexPlanet Internship | Task 1: Professional Webpage
 This repository contains my submission for Task 1 of my web development internship at ApexPlanet Software Pvt. Ltd.. This project demonstrates the integration of structural HTML, modern CSS styling, and interactive JavaScript functionality.
 
-Project Features
+Project Features:
 
 Semantic HTML5: Structured content using clean, accessible markup.
 
@@ -11,7 +11,7 @@ Interactive Elements: A JavaScript-powered button that provides immediate user f
 
 Visual Styling: Optimized image presentation using CSS box-shadow and border-radius for a modern UI look.
 
- Tech Stack
+ Tech Stack:
 
 HTML5: Content and structure.
 
@@ -21,7 +21,7 @@ JavaScript: Client-side interactivity.
 
 GitHub Pages: Live project hosting.
 
- Repository Contents
+ Repository Contents:
 
 index.html — The main entry point for the webpage.
 
